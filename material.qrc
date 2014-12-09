@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml-material/modules/Material/Button.qml</file>
+        <file>qml-material/modules/Material/qmldir</file>
+        <file>qml-material/modules/Material/units.qml</file>
+        <file>qml-material/modules/Material/View.qml</file>
+        <file>qml-material/modules/Material/MaterialAnimation.qml</file>
+        <file>qml-material/modules/Material/Label.qml</file>
+        <file>qml-material/modules/Material/Device.qml</file>
+        <file>qml-material/modules/Material/Object.qml</file>
+        <file>qml-material/modules/Material/Ink.qml</file>
+        <file>qml-material/modules/Material/Theme.qml</file>
+        <file>qml-material/modules/Material/ThemePalette.qml</file>
+        <file>qml-material/modules/Material/i18n.qml</file>
+        <file>qml-material/modules/Material/fonts/roboto/Roboto-Bold.ttf</file>
+        <file>qml-material/modules/Material/fonts/roboto/Roboto-Medium.ttf</file>
+        <file>qml-material/modules/Material/fonts/roboto/Roboto-Regular.ttf</file>
+    </qresource>
+</RCC>
