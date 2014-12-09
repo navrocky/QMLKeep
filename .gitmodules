@@ -1,0 +1,3 @@
+[submodule "qml-material"]
+	path = qml-material
+	url = https://github.com/navrocky/qml-material.git
