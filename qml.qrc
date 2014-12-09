@@ -2,5 +2,7 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>NoteTile.qml</file>
+        <file>MainPage.qml</file>
+        <file>AboutPage.qml</file>
     </qresource>
 </RCC>

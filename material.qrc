@@ -15,5 +15,26 @@
         <file>qml-material/modules/Material/fonts/roboto/Roboto-Bold.ttf</file>
         <file>qml-material/modules/Material/fonts/roboto/Roboto-Medium.ttf</file>
         <file>qml-material/modules/Material/fonts/roboto/Roboto-Regular.ttf</file>
+        <file>qml-material/modules/Material/ApplicationWindow.qml</file>
+        <file>qml-material/modules/Material/PageStack.qml</file>
+        <file>qml-material/modules/Material/Toolbar.qml</file>
+        <file>qml-material/modules/Material/Tabs.qml</file>
+        <file>qml-material/modules/Material/Icon.qml</file>
+        <file>qml-material/modules/Material/Page.qml</file>
+        <file>qml-material/modules/Material/ActionBar.qml</file>
+        <file>qml-material/modules/Material/IconAction.qml</file>
+        <file>qml-material/modules/Material/Action.qml</file>
+        <file>qml-material/modules/Material/AwesomeIcon.qml</file>
+        <file>qml-material/modules/Material/awesome.js</file>
+        <file>qml-material/modules/Material/NavigationDrawer.qml</file>
+        <file>qml-material/modules/Material/fonts/fontawesome/FontAwesome.otf</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_close_white_18dp.png</file>
+        <file>qml-material/modules/Material/Transitions/CardSlideTransition.qml</file>
+        <file>qml-material/modules/Material/Transitions/CardTransition.qml</file>
+        <file>qml-material/modules/Material/Transitions/ExpandTransition.qml</file>
+        <file>qml-material/modules/Material/Transitions/PageTransition.qml</file>
+        <file>qml-material/modules/Material/Transitions/qmldir</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_more_vert_white_18dp.png</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_arrow_back_white_18dp.png</file>
     </qresource>
 </RCC>

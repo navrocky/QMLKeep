@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml-extras/modules/Material/Extras/CircleImage.qml</file>
+        <file>qml-extras/modules/Material/Extras/ColumnFlow.qml</file>
+        <file>qml-extras/modules/Material/Extras/Document.qml</file>
+        <file>qml-extras/modules/Material/Extras/Object.qml</file>
+        <file>qml-extras/modules/Material/Extras/qmldir</file>
+        <file>qml-extras/modules/Material/Extras/js/dateutils.js</file>
+        <file>qml-extras/modules/Material/Extras/js/httplib.js</file>
+        <file>qml-extras/modules/Material/Extras/js/listutils.js</file>
+        <file>qml-extras/modules/Material/Extras/js/promises.js</file>
+        <file>qml-extras/modules/Material/Extras/js/utils.js</file>
+    </qresource>
+</RCC>
