@@ -1,13 +1,18 @@
 import QtQuick 2.0
+import Material 0.1
+Item {
+    height: 20
 
-Rectangle {
-    id: root
-    width: 100
-    height: 100
+    View {
+        id: root
+        anchors.fill: parent
+        anchors.margins: 10
+        elevation: 1
 
-    Rectangle {
-
+        Label {
+            anchors.centerIn: parent
+            text: qsTr("Memo1")
+        }
     }
 
 }
-

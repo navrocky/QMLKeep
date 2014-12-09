@@ -36,5 +36,14 @@
         <file>qml-material/modules/Material/Transitions/qmldir</file>
         <file>qml-material/modules/Material/icons/navigation/ic_more_vert_white_18dp.png</file>
         <file>qml-material/modules/Material/icons/navigation/ic_arrow_back_white_18dp.png</file>
+        <file>qml-material/modules/Material/Scrollbar.qml</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_white_18dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_white_24dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_white_36dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_white_48dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_grey600_18dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_grey600_24dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_grey600_36dp.png</file>
+        <file>qml-material/modules/Material/icons/action/ic_help_grey600_48dp.png</file>
     </qresource>
 </RCC>
