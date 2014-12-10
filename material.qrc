@@ -45,5 +45,9 @@
         <file>qml-material/modules/Material/icons/action/ic_help_grey600_24dp.png</file>
         <file>qml-material/modules/Material/icons/action/ic_help_grey600_36dp.png</file>
         <file>qml-material/modules/Material/icons/action/ic_help_grey600_48dp.png</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_more_vert_grey600_18dp.png</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_arrow_back_grey600_18dp.png</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_more_vert_white_24dp.png</file>
+        <file>qml-material/modules/Material/icons/navigation/ic_arrow_back_white_24dp.png</file>
     </qresource>
 </RCC>
